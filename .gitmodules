@@ -7,3 +7,6 @@
 [submodule "intersection_detector"]
 	path = intersection_detector
 	url = https://github.com/haruyama8940/intersection_detector.git
+[submodule "waypoint_nav"]
+	path = waypoint_nav
+	url = https://github.com/haruyama8940/waypoint_nav
