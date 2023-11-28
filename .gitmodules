@@ -1,9 +1,9 @@
 [submodule "nav_cloning_with_direction"]
-  path =　nav_cloning_with_direction
-  url = https://github.com/haruyama8940/nav_cloning_with_direction.git
+	path = nav_cloning_with_direction
+	url = https://github.com/haruyama8940/nav_cloning_with_direction.git
 [submodule "scenario_navigation"]
-  path = scenario_navigation
-  url = https://github.com/haruyama8940/scenario_navigation.git
+	path = scenario_navigation
+	url = https://github.com/haruyama8940/scenario_navigation.git
 [submodule "intersection_detector"]
-  path = intersection_detecter
-  url = https://github.com/haruyama8940/intersection_detector.git
+	path = intersection_detector
+	url = https://github.com/haruyama8940/intersection_detector.git
