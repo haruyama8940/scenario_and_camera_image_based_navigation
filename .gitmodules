@@ -1,12 +1,16 @@
 [submodule "nav_cloning_with_direction"]
 	path = nav_cloning_with_direction
 	url = https://github.com/haruyama8940/nav_cloning_with_direction.git
+	branch = main
 [submodule "scenario_navigation"]
 	path = scenario_navigation
 	url = https://github.com/haruyama8940/scenario_navigation.git
+	branch = intersection
 [submodule "intersection_detector"]
 	path = intersection_detector
 	url = https://github.com/haruyama8940/intersection_detector.git
+	branch = merge_scenario
 [submodule "waypoint_nav"]
 	path = waypoint_nav
 	url = https://github.com/haruyama8940/waypoint_nav
+	branch = intersection
